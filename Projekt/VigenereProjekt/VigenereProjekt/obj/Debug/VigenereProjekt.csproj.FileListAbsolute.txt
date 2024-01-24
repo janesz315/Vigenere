@@ -5,3 +5,11 @@ C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\Vi
 C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.csproj.CoreCompileInputs.cache
 C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.exe
 C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.pdb
+F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\bin\Debug\VigenereProjekt.exe.config
+F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\bin\Debug\VigenereProjekt.exe
+F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\bin\Debug\VigenereProjekt.pdb
+F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.csproj.AssemblyReference.cache
+F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.csproj.SuggestedBindingRedirects.cache
+F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.csproj.CoreCompileInputs.cache
+F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.exe
+F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.pdb
