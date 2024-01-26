@@ -1,7 +1,6 @@
 C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\bin\Debug\VigenereProjekt.exe.config
 C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\bin\Debug\VigenereProjekt.exe
 C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\bin\Debug\VigenereProjekt.pdb
-C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.csprojAssemblyReference.cache
 C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.csproj.CoreCompileInputs.cache
 C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.exe
 C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.pdb
@@ -13,3 +12,4 @@ F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debu
 F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.csproj.CoreCompileInputs.cache
 F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.exe
 F:\c++\Projekt\Projekt\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.pdb
+C:\Tanulók\2023-2024\12.D\Kovács János\プロジェクト\Vigenere\Projekt\VigenereProjekt\VigenereProjekt\obj\Debug\VigenereProjekt.csproj.AssemblyReference.cache
