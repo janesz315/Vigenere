@@ -39,7 +39,7 @@ class Program
         char[] kulcs = new char[x];
         Array.Copy(kulcsE, kulcs, x);
 
-        
+        //Ha kódolunk
         if (c == 'K' || c == 'k')
         {
         
